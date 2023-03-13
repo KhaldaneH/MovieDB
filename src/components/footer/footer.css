@@ -1,0 +1,13 @@
+p{
+    color: white;
+    text-align: center;
+}
+.cont{
+    height: 50px;
+    background-color: rgb(253, 33, 33);
+    border-radius: 2px 2px 0 0;
+}
+.dx{
+    height: 15px;
+
+}

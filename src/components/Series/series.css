@@ -1,0 +1,21 @@
+.popular_series {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.sr {
+font-size: 1.75rem;
+margin:  2.5rem;
+}
+
+.series_grid {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.sersp{
+    display: flex;
+   
+}
+.link{
+    margin-top: 45px;
+}

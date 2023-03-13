@@ -1,0 +1,26 @@
+#Hh{
+  background-color: red;
+  color: rgb(251, 248, 248);
+  height: 40px;
+  width: 120px;
+  margin-bottom: 10px;
+  border-radius: 5px 5px 5px 5px;
+  font-size: medium;
+}
+#Hh:hover{
+  background-color: brown;
+}
+.cmd{
+  margin-top: 100px;
+  margin-left: 80px;
+  display: inline;
+
+}
+.none{
+  height: 50px;
+  
+}
+.cd{
+  background-color: rgb(18, 18, 18);
+
+}
